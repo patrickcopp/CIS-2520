@@ -1,0 +1,5 @@
+available1 10 0
+available2 15 0
+available3 20 0
+available4 25 0
+available5 50 0

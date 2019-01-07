@@ -1,0 +1,5 @@
+rented1 0 0
+rented2 5 0
+rented3 7 0
+rented4 10 0
+rented5 15 0
